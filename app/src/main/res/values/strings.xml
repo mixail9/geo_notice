@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GpsTracker</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="nav_add_notif">Add notice</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_notif">Notices</string>
+
+    <string name="notif_name">Put text</string>
+    <string name="add_notif_dialog_title">Put name for your place</string>
+
+    <string name="place_name">My Home</string>
+    <string name="add_place_dialog_title">Put name for your place</string>
+
+    <string name="btnAdd">Add</string>
+    <string name="btnClose">Close</string>
+
+    <string name="err_try_add_empty_point">Coords is empty</string>
+    <string name="err_notice_name_empty">Title is empty</string>
+
+    <string name="add_notice_success">Add notice success</string>
+</resources>

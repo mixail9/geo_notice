@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navItemNotices" android:title="@string/nav_notif" android:color="@android:color/white"/>
+    <item android:id="@+id/navItemAddNotice" android:title="@string/nav_add_notif" android:color="@android:color/white"/>
+    <item android:id="@+id/navItemMap" android:title="@string/nav_map" android:color="@android:color/white"/>
+    <item android:id="@+id/navItemSettings" android:title="@string/nav_home" android:color="@android:color/white"/>
+</menu>
